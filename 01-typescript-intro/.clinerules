@@ -1,0 +1,3 @@
+NUNCA leas ni indexes la carpeta node_modules, dist, .git o .angular. Antes de leer cualquier archivo, verifica que no sea un archivo de datos masivo. Si necesitas instalar algo o ejecutar un comando, pide permiso primero y explica cuántos archivos planeas analizar.
+
+NUNCA leas ni indexes las carpetas node_modules, dist, out, ni .git. Antes de analizar el código, verifica que solo te enfoques en los archivos .ts de la carpeta src. Pide permiso antes de ejecutar cualquier script de npm
